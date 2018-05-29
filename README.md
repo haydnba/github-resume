@@ -7,20 +7,17 @@
 * [x] I love writing applications with teams... (this is the most important feature of my experience with FAC)
 * [x] I am really motivated by issues such as accessibility, readability, testing, coverage...
 
-### Skills:
+### Skills & Experience:
 
 * I write mainly in JavaScript but I have also worked with Python and php.
 * Node.JS and LAMP/XAMP stack
 * Express and Django
-* React, HTML/CSS
-
-| Languages  | Frameworks/Libraries | Database   | Testing   | Tools/Deployment | Design       |
-| ---------- | -------------------- | ---------- | --------- | ---------------- | ------------ |
-| JavaScript | Node.JS              | PostgreSQL | Tape      | Git, Github      | Photoshop    |
-| pHp        | Express              | MySQL      | SuperTest | Heroku           | Sketch/Figma |
-| Python     | React                | SQLite     | nyc       | Netlify          | InVision     |
-| CSS/HTML   | Django               |            | Jest      |
-|            |                      |            | TravisCI  |
+* React
+* PostgreSQL, MySQL, SQLite
+* Tape, SuperTest, Jest, nyc
+* Travis CI
+* Heroku, Netlify, AWS
+* Photoshop, Figma/Sketch, InVision...
 
 ### Teaching Experience
 
