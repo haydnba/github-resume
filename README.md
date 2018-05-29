@@ -2,7 +2,10 @@
 
 ### About Me:
 
--[x] :memo: I love writing code... -[x] :books: I love reading, thinking and talking about code - especially learning about coding practices and technologies through discussion with colleagues, mentors and peers... -[x] :twisted_rightwards_arrows: I love writing applications with teams... (this is the most important feature of my experience with FAC) -[x]
+* [x] :memo: I love writing code...
+* [x] :books: I love reading, thinking and talking about code - especially learning about coding practices and technologies through discussion with colleagues, mentors and peers...
+* [x] :twisted_rightwards_arrows: I love writing applications with teams... (this is the most important feature of my experience with FAC)
+* [x] :wheelchair: :white-check-mark: I am really motivated by issues such as accessibility, readability, testing,
 
 ### Skills:
 
