@@ -2,9 +2,7 @@
 
 ### About Me:
 
-[x] Love to write code...
-[x] Love reading, learing, thinking and talking about code - especially learning about code from colleagues, mentors and peers...
-[x] Love producing applications in teams...
+-[x] :memo: I love writing code... -[x] :books: I love reading, thinking and talking about code - especially learning about coding practices and technologies through discussion with colleagues, mentors and peers... -[x] :twisted_rightwards_arrows: I love writing applications with teams... (this is the most important feature of my experience with FAC) -[x]
 
 ### Skills:
 
