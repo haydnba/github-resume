@@ -2,12 +2,17 @@
 
 ### About Me:
 
-* [x] :memo: I love writing code...
+* [:memo:] I love writing code...
 * [x] :books: I love reading, thinking and talking about code - especially learning about coding practices and technologies through discussion with colleagues, mentors and peers...
 * [x] :twisted_rightwards_arrows: I love writing applications with teams... (this is the most important feature of my experience with FAC)
-* [x] :wheelchair: :white-check-mark: I am really motivated by issues such as accessibility, readability, testing,
+* [x] :wheelchair: :white_check_mark: I am really motivated by issues such as accessibility, readability, testing,
 
 ### Skills:
+
+* I write mainly in JavaScript but I have also worked with Python and php.
+* Node.JS and LAMP/XAMP stack
+* Express and Django
+* React, HTML/CSS
 
 | Languages  | Frameworks/Libraries | Database   | Testing   | Tools/Deployment | Design       |
 | ---------- | -------------------- | ---------- | --------- | ---------------- | ------------ |
